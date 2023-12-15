@@ -16,8 +16,7 @@ super + Escape
 
 # My program Hotkeys
 super + b
-#	brave-browser
-	thorium-browser
+	brave-browser
 
 super + p 
 	flameshot full -p /home/user/Screenshots/
